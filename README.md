@@ -2,7 +2,7 @@
 This is a simple Rock Paper Scissors game with a clean interface.
 
 
-How to Play
+How to Play -> 
 Click on your choice (rock, paper, or scissors) to play against the computer. The score for both you and the computer is tracked on the scoreboard.
 
 
