@@ -1,21 +1,60 @@
 # Rock-Paper-Scissor Game
 ## ▶️ Play Now
-
 Click the button below to play the Rock-Paper-Scissors game online:
 
 [![Play Now](https://img.shields.io/badge/PLAY%20NOW-brightgreen?style=for-the-badge&logo=google-chrome)](https://vedantgupta27.github.io/Rock-Paper-Scissor/)
 
-This is a simple Rock Paper Scissors game with a clean interface.
+---
 
-How to Play -> 
-Click on your choice (rock, paper, or scissors) to play against the computer. The score for both you and the computer is tracked on the scoreboard.
+A simple and fun Rock–Paper–Scissors game built with HTML, CSS, and JavaScript.
+Just click your move and see if you can beat the computer!
 
+---
+Demo
 
-Technical Details
-The project is built using:
+Play the live version here:
+👉 https://vedantgupta27.github.io/Rock-Paper-Scissor/
 
-index.htm: Sets up the game's structure.
+---
+Features
 
-style.css: Manages the visual styling and layout.
+Play against a computer opponent
 
-app.js: Contains the core game logic. It handles user input, randomly generates the computer's move, determines the winner, and updates the score and messages.
+Randomized computer moves
+
+Scoreboard that updates every round
+
+Lightweight and easy to understand code
+
+Clean UI for quick gameplay
+
+---
+
+How to Play
+
+Click Rock, Paper, or Scissor.
+
+The computer picks its move automatically.
+
+The result (Win/Lose/Draw) shows on the screen.
+
+The scores update as you play more rounds.
+
+---
+
+Preview
+
+---
+---
+
+Technologies
+
+HTML
+
+CSS
+
+JavaScript (Vanilla)
+
+Run Locally
+git clone https://github.com/VedantGupta27/Rock-Paper-Scissor.git
+cd Rock-Paper-Scissor
