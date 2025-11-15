@@ -5,17 +5,6 @@ Click the button below to play the Rock-Paper-Scissors game online:
 [![Play Now](https://img.shields.io/badge/PLAY%20NOW-brightgreen?style=for-the-badge&logo=google-chrome)](https://vedantgupta27.github.io/Rock-Paper-Scissor/)
 
 ---
-
-A simple and fun Rock–Paper–Scissors game built with HTML, CSS, and JavaScript.
-Just click your move and see if you can beat the computer!
-
----
-Demo
-
-Play the live version here:
-👉 https://vedantgupta27.github.io/Rock-Paper-Scissor/
-
----
 Features
 
 Play against a computer opponent
@@ -44,7 +33,8 @@ The scores update as you play more rounds.
 
 Preview
 
----
+<img width="1174" height="851" alt="image" src="https://github.com/user-attachments/assets/232f5b22-0331-41f2-8f19-287e020dd091" />
+
 ---
 
 Technologies
